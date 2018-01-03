@@ -1,0 +1,17 @@
+Log File - e2 | created at 2017.09.21.19.56.10 
+
+ --Program Started-- | Request Originated from main.js | Logged at 1506003965782
+Entry raised for transaction ID Viso.TN.TP.12017.09.21.19.56.10.302 from Authentication - GSTN | Request Originated from API Entry | Logged at 1506003970303
+entered in the function. First line | Request Originated from API Builder.Authenticate | Logged at 1506003970304
+Trying to encrypt with the Appkey 1504F6AE-0010-4F41-8084-433AF897 | Request Originated from API Builder.Authenticate | Logged at 1506003970304
+Inside fireAuth callback | Request Originated from API Builder.Authenticate | Logged at 1506003970565
+Inside fireAuth callback - Success block | Request Originated from API Builder.Authenticate | Logged at 1506003970566
+--Program Started-- | Request Originated from main.js | Logged at 1506003965782
+Entry raised for transaction ID Viso.TN.TP.12017.09.21.19.56.10.302 from Authentication - GSTN | Request Originated from API Entry | Logged at 1506003970303
+entered in the function. First line | Request Originated from API Builder.Authenticate | Logged at 1506003970304
+Trying to encrypt with the Appkey 1504F6AE-0010-4F41-8084-433AF897 | Request Originated from API Builder.Authenticate | Logged at 1506003970304
+Inside fireAuth callback | Request Originated from API Builder.Authenticate | Logged at 1506003970565
+Inside fireAuth callback - Success block | Request Originated from API Builder.Authenticate | Logged at 1506003970566
+key = {0} and result = {1} and the output is  auth success 1 | Request Originated from API Builder - Get Code  | Logged at 1506003970566
+Auth Token pulled:8f87780d3bbb470297e950fd0fbe7da3 | Request Originated from API Builder.Authenticate | Logged at 1506003970566
+Object returning - {"code":1,"result":"success","message":"authenticated successfully","data":{"status_cd":"1","auth_token":"8f87780d3bbb470297e950fd0fbe7da3","expiry":120,"sek":"TwS86J8YSZVbf0Ivz7fEskukqL+NQY1cHb5oT7nWmx6uylXrFZz4HQpNeYowZFlY"}} | Request Originated from API Builder - GenerateReturnBody_Array | Logged at 1506003970566

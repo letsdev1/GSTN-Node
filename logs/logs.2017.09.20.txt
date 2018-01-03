@@ -1,0 +1,17 @@
+Log File - e2 | created at 2017.09.20.4.38.23 
+
+ --Program Started-- | Request Originated from main.js | Logged at 1505862493660
+Entry raised for transaction ID Viso.TN.TP.12017.09.20.4.38.22.937 from Authentication - GSTN | Request Originated from API Entry | Logged at 1505862502937
+entered in the function. First line | Request Originated from API Builder.Authenticate | Logged at 1505862502938
+Trying to encrypt with the Appkey 1504F6AE-0010-4F41-8084-433AF897 | Request Originated from API Builder.Authenticate | Logged at 1505862502938
+Inside fireAuth callback | Request Originated from API Builder.Authenticate | Logged at 1505862503253
+Inside fireAuth callback - Success block | Request Originated from API Builder.Authenticate | Logged at 1505862503253
+--Program Started-- | Request Originated from main.js | Logged at 1505862493660
+Entry raised for transaction ID Viso.TN.TP.12017.09.20.4.38.22.937 from Authentication - GSTN | Request Originated from API Entry | Logged at 1505862502937
+entered in the function. First line | Request Originated from API Builder.Authenticate | Logged at 1505862502938
+Trying to encrypt with the Appkey 1504F6AE-0010-4F41-8084-433AF897 | Request Originated from API Builder.Authenticate | Logged at 1505862502938
+Inside fireAuth callback | Request Originated from API Builder.Authenticate | Logged at 1505862503253
+Inside fireAuth callback - Success block | Request Originated from API Builder.Authenticate | Logged at 1505862503253
+key = {0} and result = {1} and the output is  auth success 1 | Request Originated from API Builder - Get Code  | Logged at 1505862503254
+Auth Token pulled:ccf506df489d49989a6c4fcefe54210c | Request Originated from API Builder.Authenticate | Logged at 1505862503254
+Object returning - {"code":1,"result":"success","message":"authenticated successfully","data":{"status_cd":"1","auth_token":"ccf506df489d49989a6c4fcefe54210c","expiry":120,"sek":"/q4Y1fOru+DjNwSFAxonOLNS/3Fs9OpiqxQ/Hsa0BJWuylXrFZz4HQpNeYowZFlY"}} | Request Originated from API Builder - GenerateReturnBody_Array | Logged at 1505862503254

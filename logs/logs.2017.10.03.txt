@@ -1,0 +1,5 @@
+Log File - e2 | created at 2017.10.03.20.35.57 
+
+ --Program Started-- | Request Originated from main.js | Logged at 1507043155219
+Entry raised for transaction ID [object Object]2017.10.03.20.35.57.355 from undefined | Request Originated from API Entry | Logged at 1507043157356
+Entered in the function. First line | Request Originated from API Builder. | Logged at 1507043157356
