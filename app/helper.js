@@ -14,18 +14,18 @@ module.exports.Constants={
     URL_GSTR1_B2B_Invoices:'/returns/gstr1',
     URL_Domain:'http://devapi.gstsystem.co.in/taxpayerapi',
 
-    AppKey : '1504F6AE-0010-4F41-8084-433AF897',
-    TestUser : 'Viso.TN.TP.1',
+    AppKey : 'xxxx',
+    TestUser : 'xxx',
     StateCode : 33,
 
-    GSTNID : '33GSPTN4371G1Z5',
+    GSTNID : 'xxxx',
 
-    ClientID:'l7xxeb5b62c82cd9426f9d449b40c8a6f8c1',
-    ClientSecret:'520ba8e5acdb452e955138f0181117ef',
+    ClientID:'xxx',
+    ClientSecret:'xxx',
 
     UseQ:false, // if we ever need to implement a queue, we will use this flag
     LogLevel:5, // means that we need to log the logs which has level <value> or less
-    adminEmail: 'vikasbhandari2@gmail.com' //'admin@e2cs.in'
+    adminEmail: 'vikasbhandari2@gmail.com' //''
 },
 
 
